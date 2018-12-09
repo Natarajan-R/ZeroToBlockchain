@@ -4,6 +4,9 @@
  RED='\033[1;31m'
  GREEN='\033[1;32m'
  RESET='\033[0m'
+ 
+ HLF_INSTALL_PATH='/home/dapps/fabric-tools'
+
 
 # indent text on echo
 function indent() {
